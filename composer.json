@@ -1,0 +1,13 @@
+{
+    "name": "tchappui/scherzo-migration",
+    "description": "Scherzo-migration is the database migration component used by the Scherzo education web framework.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thierry Chappuis",
+            "email": "thierry@chappuis.io"
+        }
+    ],
+    "require": {}
+}
